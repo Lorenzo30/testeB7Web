@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464859486760",
+    "project_id": "motivador-academia",
+    "storage_bucket": "motivador-academia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464859486760:android:be8522f351e7bf6a02731d",
+        "android_client_info": {
+          "package_name": "com.frasesmotivacionaisacademia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464859486760-5psadebt9jh44uvddjn74h1ojb5vt3op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRZQramEiJ3xS4yUNdLQb5tlogdcAHEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464859486760-5psadebt9jh44uvddjn74h1ojb5vt3op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
